@@ -1,5 +1,9 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vipul Chowdhary
+###### 🎯 Passionate Python Developer | Backend Web Development Enthusiast | Object-Oriented Programming Advocate | Machine Learning Enthuaist
+###### 📍 Based in Hyderabad, Telangana, India
 
+### 📫 Connect with Me
+LinkedIn: <a href='https://www.linkedin.com/in/vipulc2580/'>Vipul Chowdhary</a>
 <!--
 **vipulc2580/vipulc2580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
