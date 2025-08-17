@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Vipul Chowdhary
-###### 🎯 Passionate Python Developer | Backend Web Development Enthusiast | Object-Oriented Programming Advocate | Machine Learning Enthuaist
+###### 🎯 Passionate Python Full Stack Developer | Backend Web Development Enthusiast | Generative AI Developer | Machine Learning Enthuaist
 ###### 📍 Based in Hyderabad, Telangana, India
 
 ### 📫 Connect with Me
